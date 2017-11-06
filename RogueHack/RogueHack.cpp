@@ -17,6 +17,7 @@ vector<string> screen;
 #define MAP_VWALL '|'
 #define MAP_HWALL '='
 #define MAP_PLAYER '@'
+#define MAP_MONSTER '^'
 
 void initScreen()
 {
